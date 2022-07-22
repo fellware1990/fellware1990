@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fellware1990
+- 👀 I’m interested in ARM/Bicep/Json/Yaml/Python/Powershell/Bash/API
+- 🌱 I’m currently learning Bicep
